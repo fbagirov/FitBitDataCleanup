@@ -1,5 +1,6 @@
 # PyDataNYC2017
 repository for the "Analyst’s nightmare or laundering massive spreadsheets"
+https://www.slideshare.net/fbagirov/analysts-nightmare-or-laundering-massive-spreadsheets
 
 Description
 Poor data quality frequently invalidates data analysis when performed on 
